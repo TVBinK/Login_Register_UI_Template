@@ -7,8 +7,7 @@
 </div>
 
 ## 📱 Giới thiệu
-
-LearnJetpack là ứng dụng Android được phát triển bằng **Kotlin** và **Jetpack Compose**, tập trung vào việc học và thực hành các tính năng hiện đại của Android development.
+ là ứng dụng Android được phát triển bằng **Kotlin** và **Jetpack Compose**, tập trung vào việc học và thực hành các tính năng hiện đại của Android development.
 
 ## ✨ Tính năng chính
 
