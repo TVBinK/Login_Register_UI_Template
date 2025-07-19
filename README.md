@@ -1,14 +1,20 @@
 # LearnJetpack - Android App
 
-<div align="center">
-  <h1>JetpackCompose</h1>
-  [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
-  [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-  [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)](https://developer.android.com/jetpack/compose)
-</div>
+<p align="center">
+  <a href="https://developer.android.com/">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  </a>
+  <a href="https://kotlinlang.org/">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  </a>
+  <a href="https://developer.android.com/jetpack/compose">
+    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose">
+  </a>
+</p>
 
 ## 📱 Giới thiệu
-Là ứng dụng Android được phát triển bằng **Kotlin** và **Jetpack Compose**, tập trung vào việc học và thực hành các tính năng hiện đại của Android development.
+
+LearnJetpack là ứng dụng Android được phát triển bằng **Kotlin** và **Jetpack Compose**, tập trung vào việc học và thực hành các tính năng hiện đại của Android development.
 
 ## ✨ Tính năng chính
 
